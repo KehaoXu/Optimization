@@ -1,4 +1,4 @@
-# Optimization Project
+# Frog Call-Based Classification Model
 
 ## Project Overview
 This project aims to classify datasets using different machine learning models (such as logistic regression and kernel SVM) and compare their performance. The project uses `train.csv` and `test.csv` as training and testing datasets.
@@ -26,5 +26,5 @@ The project uses the following Python libraries:
 ## Results
 In this project, we compared the test and training errors of different models and analyzed the confusion matrix. Detailed results can be found in the output of `final.ipynb`.
 
-## Contributors
-- Project Author: Kehao Xu
+<!-- ## Contributors
+- Project Author: Kehao Xu -->
